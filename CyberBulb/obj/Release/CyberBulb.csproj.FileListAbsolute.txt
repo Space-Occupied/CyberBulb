@@ -1,0 +1,10 @@
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\bin\Release\CyberBulb.exe.config
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\bin\Release\CyberBulb.exe
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\bin\Release\CyberBulb.pdb
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\obj\Release\CyberBulb.csproj.AssemblyReference.cache
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\obj\Release\CyberBulb.Form1.resources
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\obj\Release\CyberBulb.Properties.Resources.resources
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\obj\Release\CyberBulb.csproj.GenerateResource.cache
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\obj\Release\CyberBulb.csproj.CoreCompileInputs.cache
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\obj\Release\CyberBulb.exe
+C:\Users\DarkQuantum\source\repos\CyberBulb\CyberBulb\obj\Release\CyberBulb.pdb
